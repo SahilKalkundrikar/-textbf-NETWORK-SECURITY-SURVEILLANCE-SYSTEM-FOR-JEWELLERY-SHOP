@@ -10,8 +10,8 @@ import time
 def send_email():
     HOST = "smtp-mail.outlook.com"
     PORT = 587
-    FROM_EMAIL = "sahilkalkundrikar008@outlook.com"
-    TO_EMAIL = "sahilkalkundrikar2@gmail.com"
+    FROM_EMAIL = "sahilkalkundrikar00@outlook.com"
+    TO_EMAIL = "sahilkalkundrikar@gmail.com"
     PASSWORD = "Sahil@1234"
     IMAGE_PATH = r"suspicious_frame.jpg"
     MESSAGE = MIMEMultipart()
